@@ -1,0 +1,17 @@
+@import url('https://fonts.google.com/specimen/Fraunces');
+@import url('https://fonts.google.com/specimen/Montserrat');
+
+:root {
+    --header-color: hsl(212, 21%, 14%);
+    --bg-color: hsl(30, 38%, 92%);
+    --card-bg-color: hsl(0, 0%, 100%);
+    --text-color: hsl(228, 12%, 48%);
+    --btn-bg-color: hsl(158, 42%, 18%);
+    --price-color: hsl(158, 36%, 37%);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
