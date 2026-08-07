@@ -4,7 +4,7 @@ This is my solution to the **Product preview card component** challenge on Front
 
 ## 📸 Screenshot
 
-![Product preview card component screenshot](./screenshot.png)
+![Preview](./design/desktop-preview.jpg)
 
 ## 🔗 Links
 
